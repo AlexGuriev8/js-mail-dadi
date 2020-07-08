@@ -11,7 +11,7 @@ for(var i = 0; i < lista.length; i++) {
 
 // console.log(ris);
 if(ris == true) {
-  document.getElementById('text').innerHTML = "Accesso consetito";
+  document.getElementById('text').innerHTML = "Accesso consentito";
 } else {
-  document.getElementById('text').innerHTML = "Accesso non consetito";
+  document.getElementById('text').innerHTML = "Accesso non consentito";
 }
